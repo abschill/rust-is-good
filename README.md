@@ -1,6 +1,6 @@
 # What's this
 
-This repository is a list of articles that complain about **Rust**'s perfection.
+This repository is a list of articles that talk about **Rust**'s perfection.
 
 ## Motivation
 
